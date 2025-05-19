@@ -6,7 +6,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <Link to="/" className="navbar-brand p-0">
                     <div className="d-flex align-items-center">
-                        <img src="/assets/img/logo.jpeg" />
+                        <img src="/assets/img/logo.png" />
                         <h1 className="m-0">InnovateWithMeraki</h1>
                     </div>
                 </Link>

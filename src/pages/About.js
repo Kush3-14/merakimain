@@ -48,7 +48,7 @@ const About = () => {
                                 <p className="mb-2">85%</p>
                             </div>
                             <div className="progress">
-                                <div className="progress-bar bg-primary" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar bg-primary" role="progressbar" style={{width: "85%"}} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
                         <div className="skill mb-4">
@@ -57,7 +57,7 @@ const About = () => {
                                 <p className="mb-2">90%</p>
                             </div>
                             <div className="progress">
-                                <div className="progress-bar bg-secondary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar bg-secondary" role="progressbar" style={{width: "90%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
                         <div className="skill mb-4">
@@ -66,7 +66,7 @@ const About = () => {
                                 <p className="mb-2">95%</p>
                             </div>
                             <div className="progress">
-                                <div className="progress-bar bg-dark" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div className="progress-bar bg-dark" role="progressbar" style={{width: "95%"}} aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
                         <Link to="" className="btn btn-primary py-sm-3 px-sm-5 rounded-pill mt-3">Read More</Link>
