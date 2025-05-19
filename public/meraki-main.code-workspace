@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../meraki-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "meraki-main"
+	}
+}
