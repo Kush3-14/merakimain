@@ -34,7 +34,7 @@ const Testimonial = () => {
                     <div className="testimonial-item bg-light rounded my-4">
                         <p className="fs-5"><i className="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo.</p>
                         <div className="d-flex align-items-center">
-                            <img className="img-fluid flex-shrink-0 rounded-circle" src="public/assets/img/testimonial-3.jpg" style={{width: "65px", height: "65px"}} alt="testimonial" />
+                            <img className="img-fluid flex-shrink-0 rounded-circle" src="/assets/img/testimonial-3.jpg" style={{width: "65px", height: "65px"}} alt="testimonial" />
                             <div className="ps-4">
                                 <h5 className="mb-1">Client Name</h5>
                                 <span>Profession</span>
